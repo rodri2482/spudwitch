@@ -89,7 +89,7 @@ Public download links will appear here when ready
 
 ## Support the project
 
-[Report a bug](https://github.com/rodri2482/spudwitch-showcase/issues/new?template=bug_report.yml) · [Suggest an improvement](https://github.com/rodri2482/spudwitch-showcase/issues/new?template=feature_request.yml) · [Check existing issues](https://github.com/rodri2482/spudwitch-showcase/issues)
+[Report a bug](https://github.com/rodri2482/spudwitch/issues/new?template=bug_report.yml) · [Suggest an improvement](https://github.com/rodri2482/spudwitch/issues/new?template=feature_request.yml) · [Check existing issues](https://github.com/rodri2482/spudwitch/issues)
 
 <details>
 <summary><strong>Reporting and contribution guide</strong></summary>
