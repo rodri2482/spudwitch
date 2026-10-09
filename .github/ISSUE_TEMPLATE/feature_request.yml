@@ -1,0 +1,32 @@
+name: Suggest an improvement
+description: Share a product idea, documentation fix or design suggestion
+title: "[Idea] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Check existing issues for similar ideas and keep private information out of this public report
+  - type: dropdown
+    id: area
+    attributes:
+      label: What would you like to improve?
+      options:
+        - Product experience
+        - Character design or showcase layout
+        - Documentation or accessibility
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem would this solve?
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Your suggestion
+      description: Describe the change and how it would help
+    validations:
+      required: true

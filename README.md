@@ -3,12 +3,24 @@
 </p>
 
 <p align="center">
+  <em>Your personal AI, with a little magic</em><br>
+  <em>Think clearly, discover more and turn ideas into useful progress</em>
+</p>
+
+<p align="center">
+  <a href="https://spudwitch.web.app"><img src="assets/badge-website.svg" alt="Website: available" height="26"></a>
+  <a href="#android-version"><img src="assets/badge-android.svg" alt="Android: in development" height="26"></a>
+  <a href="#pc-version"><img src="assets/badge-pc.svg" alt="PC: in development" height="26"></a>
+</p>
+
+<p align="center">
   <a href="https://spudwitch.web.app"><strong>Open Spudwitch ↗</strong></a> ·
   <a href="#meet-your-companions">Meet the companions</a> ·
   <a href="#capabilities">Capabilities</a> ·
   <a href="#inside-spudwitch">Screenshots</a> ·
   <a href="#about-the-project">About the project</a> ·
-  <a href="#platform-availability">Versions</a>
+  <a href="#platform-availability">Versions</a> ·
+  <a href="#how-can-i-support-the-project">Support the project</a>
 </p>
 
 ## About Spudwitch
@@ -21,7 +33,7 @@ Bring a question, scattered notes or a rough idea, then work towards something u
 
 ## Meet your companions
 
-Four familiar faces, each with a different manner — introducing the things you can explore with Spudwitch
+Four AI companions, each with a different manner, plus Ember, your little chat pet
 
 <table>
   <tr>
@@ -97,6 +109,25 @@ Available features depend on your account, permissions and connected services
 | **Android Version** | **In development** | Release details will be added here when ready |
 | **PC Version** | **Still in development** | Release details will be added here when ready |
 
+## Start using Spudwitch
+
+> [!NOTE]
+> The website is available now
+> Android and PC versions are still in development, and their public download links will appear here when ready
+
+### Website
+
+- **[Open Spudwitch ↗](https://spudwitch.web.app)** in your browser and sign in to begin
+
+### Android Version
+
+- **In development** — follow this page for public release details
+
+### PC Version
+
+- **Still in development** — follow this page for public release details
+
+
 ## About the project
 
 <table>
@@ -114,8 +145,11 @@ Available features depend on your account, permissions and connected services
   </tr>
 </table>
 
-<details>
-<summary><strong>Meet the companions as individual cutouts</strong></summary>
+### Character lineup
+
+**Spudwitch · Brine · Rooter · Nipper · Ember**
+
+The familiar faces from the app, shown as individual transparent cutouts
 
 <table>
   <tr>
@@ -126,6 +160,41 @@ Available features depend on your account, permissions and connected services
     <td align="center" width="20%"><a href="assets/ember.svg"><img src="assets/ember.svg" alt="Ember transparent pixel-art pet cutout" width="140" height="160"></a><br><strong>Ember</strong></td>
   </tr>
 </table>
+
+## How can I support the project?
+
+You can help Spudwitch improve by [sharing an idea](https://github.com/rodri2482/spudwitch-showcase/issues/new?template=feature_request.yml), [reporting a bug](https://github.com/rodri2482/spudwitch-showcase/issues/new?template=bug_report.yml) or introducing the [website](https://spudwitch.web.app) to someone who would find it useful
+
+## Bug reporting
+
+Before opening a report, [check existing issues](https://github.com/rodri2482/spudwitch-showcase/issues) to see whether the same problem has already been raised
+
+Include what you were trying to do, the steps to reproduce the problem, what you expected and what actually happened
+Add your browser or device details and a screenshot if it helps explain the issue
+
+> [!IMPORTANT]
+> Public reports are visible to everyone
+> Remove personal information, private conversations, passwords and API keys from screenshots and reports
+
+**[Report a bug →](https://github.com/rodri2482/spudwitch-showcase/issues/new?template=bug_report.yml)**
+
+## Contributor guide
+
+<details>
+<summary><strong>Artwork, documentation and product feedback</strong></summary>
+
+### Working on Spudwitch
+
+This public repository contains the product showcase, character artwork and selected screenshots
+
+- **Documentation** — suggest clearer descriptions, correct a broken link or improve accessibility text
+- **Design** — share feedback on the characters, layout or presentation
+- **Product ideas** — describe the problem you want Spudwitch to solve and how the feature would help
+
+Keep contributions focused on the public showcase
+The application source is maintained separately
+
+**[Suggest an improvement →](https://github.com/rodri2482/spudwitch-showcase/issues/new?template=feature_request.yml)**
 
 </details>
 
@@ -152,12 +221,15 @@ Available features depend on your account, permissions and connected services
     <td width="33%" align="center">
       <strong>THE PROJECT</strong><br><br>
       <a href="#about-the-project">About the project</a><br>
-      <a href="#start-with-something-small">Try an idea</a><br>
+      <a href="#how-can-i-support-the-project">Support the project</a><br>
+      <a href="#bug-reporting">Report a bug</a><br>
       <a href="#about-spudwitch">Back to the introduction ↑</a>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <sub>Spudwitch · WitchLabs Ai · Think · Discover · Remember · Do</sub>
+  <img src="assets/companions-lineup.svg" alt="Spudwitch, Brine, Rooter, Nipper and Ember standing together" width="760"><br><br>
+  <strong>Spudwitch · WitchLabs Ai</strong><br>
+  <sub>Created August 15, 2026 · Think, discover, remember and get things done</sub>
 </p>
