@@ -7,7 +7,8 @@
   <a href="#meet-your-companions">Meet the companions</a> ·
   <a href="#capabilities">Capabilities</a> ·
   <a href="#inside-spudwitch">Screenshots</a> ·
-  <a href="#about-the-project">About the project</a>
+  <a href="#about-the-project">About the project</a> ·
+  <a href="#platform-availability">Versions</a>
 </p>
 
 ## About Spudwitch
@@ -48,7 +49,7 @@ Four familiar faces, each with a different manner — introducing the things you
 | **Everyday workflows** | Work with reminders, attachments and exports through supported tools, with confirmation for writes and consequential actions |
 | **Read aloud** | Listen to responses, choose a voice and adjust the reading speed |
 | **Your experience** | Choose New or Classic styling and a companion manner, with Ember beside the conversation |
-| **Web and Android** | Use the browser experience or the Android app |
+| **Platform access** | Use the available website, with Android and PC versions in development |
 
 Available features depend on your account, permissions and connected services
 
@@ -84,12 +85,34 @@ Available features depend on your account, permissions and connected services
 | **A rough draft** | “Make this message clearer while keeping my tone” |
 | **A calculation** | “Check this calculation and show the assumptions” |
 
+## Platform availability
+
+<p align="center">
+  <img src="assets/platforms.svg" alt="Website available · Android Version in development · PC Version in development" width="100%">
+</p>
+
+| Version | Status | Access |
+| --- | --- | --- |
+| **Website** | **Available** | [Open Spudwitch ↗](https://spudwitch.web.app) |
+| **Android Version** | **In development** | Release details will be added here when ready |
+| **PC Version** | **Still in development** | Release details will be added here when ready |
+
 ## About the project
 
-Spudwitch is a personal AI project by **WitchLabs Ai**, built around a simple goal: help people think, discover, remember and get things done through a characterful, approachable assistant
-
-This repository is the official public showcase: product introductions, companion artwork and selected screenshots
-The application source is maintained separately in a private repository
+<table>
+  <tr>
+    <td width="28%" align="center">
+      <img src="assets/spud.svg" alt="Spudwitch standing character cutout with a transparent background" width="190"><br>
+      <strong>Your companion for the next step</strong>
+    </td>
+    <td width="72%">
+      <strong>A little character, a practical purpose</strong><br><br>
+      Spudwitch is a personal AI project by <strong>WitchLabs Ai</strong>, built around a simple goal: help people think, discover, remember and get things done through a characterful, approachable assistant<br><br>
+      This repository is the official public showcase: product introductions, companion artwork and selected screenshots<br>
+      The application source is maintained separately in a private repository
+    </td>
+  </tr>
+</table>
 
 <details>
 <summary><strong>Meet the companions as individual cutouts</strong></summary>
@@ -109,7 +132,32 @@ The application source is maintained separately in a private repository
 ---
 
 <p align="center">
-  <strong>Spudwitch · WitchLabs Ai</strong><br>
-  <sub>Think · Discover · Remember · Do</sub><br><br>
-  <a href="https://spudwitch.web.app"><strong>Meet Spudwitch →</strong></a>
+  <a href="https://spudwitch.web.app"><img src="assets/footer.svg" alt="Spudwitch by WitchLabs Ai — Think, discover, remember, do — A little magic for your next step" width="100%"></a>
+</p>
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <strong>EXPLORE</strong><br><br>
+      <a href="#meet-your-companions">Meet the companions</a><br>
+      <a href="#capabilities">Capabilities</a><br>
+      <a href="#inside-spudwitch">Inside Spudwitch</a>
+    </td>
+    <td width="34%" align="center">
+      <strong>VERSIONS</strong><br><br>
+      <a href="https://spudwitch.web.app">Website · Available ↗</a><br>
+      <a href="#platform-availability">Android Version · In development</a><br>
+      <a href="#platform-availability">PC Version · In development</a>
+    </td>
+    <td width="33%" align="center">
+      <strong>THE PROJECT</strong><br><br>
+      <a href="#about-the-project">About the project</a><br>
+      <a href="#start-with-something-small">Try an idea</a><br>
+      <a href="#about-spudwitch">Back to the introduction ↑</a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <sub>Spudwitch · WitchLabs Ai · Think · Discover · Remember · Do</sub>
 </p>

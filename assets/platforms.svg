@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="252" viewBox="0 0 1400 252" role="img">
+<title>Website available — Android Version and PC Version in development</title>
+<rect width="1400" height="252" rx="28" fill="#14151a"/>
+<g font-family="DejaVu Sans,Arial,sans-serif">
+<g transform="translate(24 24)">
+<rect width="424" height="204" rx="22" fill="#1c1c23" stroke="#3a3432"/>
+<rect x="24" y="24" width="44" height="44" rx="13" fill="#302823"/>
+<g transform="translate(36 36)" fill="none" stroke="#efb47d" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="10" cy="10" r="10"/><path d="M0 10h20M10 0c-6 5-6 15 0 20M10 0c6 5 6 15 0 20"/></g>
+<text x="86" y="54" fill="#fff7ec" font-size="26" font-weight="700">Website</text>
+<circle cx="32" cy="113" r="5" fill="#99d3ac"/>
+<text x="47" y="120" fill="#99d3ac" font-size="21" font-weight="600">Available</text>
+<text x="26" y="171" fill="#b7b2ac" font-size="17">Your next step starts in the browser</text>
+</g>
+<g transform="translate(488 24)">
+<rect width="424" height="204" rx="22" fill="#1c1c23" stroke="#3a3432"/>
+<rect x="24" y="24" width="44" height="44" rx="13" fill="#302823"/>
+<g transform="translate(36 36)" fill="none" stroke="#efb47d" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="0" width="12" height="20" rx="3"/><path d="M8 16h4"/></g>
+<text x="86" y="54" fill="#fff7ec" font-size="26" font-weight="700">Android Version</text>
+<circle cx="32" cy="113" r="5" fill="#efb47d"/>
+<text x="47" y="120" fill="#efb47d" font-size="21" font-weight="600">In development</text>
+<text x="26" y="171" fill="#b7b2ac" font-size="17">Mobile experience · Release to follow</text>
+</g>
+<g transform="translate(952 24)">
+<rect width="424" height="204" rx="22" fill="#1c1c23" stroke="#3a3432"/>
+<rect x="24" y="24" width="44" height="44" rx="13" fill="#302823"/>
+<g transform="translate(36 36)" fill="none" stroke="#efb47d" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="0" y="1" width="20" height="13" rx="2"/><path d="M10 14v5M5 20h10"/></g>
+<text x="86" y="54" fill="#fff7ec" font-size="26" font-weight="700">PC Version</text>
+<circle cx="32" cy="113" r="5" fill="#efb47d"/>
+<text x="47" y="120" fill="#efb47d" font-size="21" font-weight="600">Still in development</text>
+<text x="26" y="171" fill="#b7b2ac" font-size="17">Desktop experience · Release to follow</text>
+</g>
+</g></svg>
