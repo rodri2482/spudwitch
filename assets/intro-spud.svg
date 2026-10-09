@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="630" viewBox="0 0 640 630" role="img"><title>Spudwitch introduces Spudwitch</title><defs></defs><rect x="1" y="1" width="638" height="628" rx="28" fill="#191a20" stroke="#38373e"/><text x="32" y="46" fill="#f49a47" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="600" text-anchor="start" letter-spacing="2">THE PRACTICAL ONE</text><rect x="28" y="72" width="584" height="156" rx="24" fill="#f9f3ea"/><path d="M298 228l22 25 22-25" fill="#f9f3ea"/><text x="57" y="113" fill="#37291f" font-family="DejaVu Sans,Arial,sans-serif" font-size="27" font-weight="700" text-anchor="start">Hi, I am Spudwitch</text><text x="57" y="154" fill="#695847" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="start">Bring a question, a draft or an idea</text><text x="57" y="187" fill="#695847" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="start">I help you find a clear next step</text><ellipse cx="320" cy="546" rx="110" ry="10" fill="#0d0e12" opacity=".75"/><svg xmlns="http://www.w3.org/2000/svg" viewBox="48 39 304 358" role="img" x="170" y="260" width="300" height="282">
+          <title>Spudwitch standing companion cutout</title><defs>
+            <linearGradient id="spud-hatGrad-s1" x1="0" y1="0" x2="0" y2="1">
+              <stop offset="0" stop-color="#F5A054" />
+              <stop offset="1" stop-color="#E0762A" />
+            </linearGradient>
+            <linearGradient id="spud-capeGrad-s1" x1="0" y1="0" x2="0" y2="1">
+              <stop offset="0" stop-color="#F5A054" />
+              <stop offset="1" stop-color="#DD7024" />
+            </linearGradient>
+            <radialGradient id="spud-spudGrad-s1" cx="42%" cy="34%" r="72%">
+              <stop offset="0" stop-color="#FCF2DC" />
+              <stop offset="1" stop-color="#F1DFBC" />
+            </radialGradient>
+          </defs>
+    
+          <g>
+    
+            
+            
+    
+            
+            <g>
+              <path d="M160 250 C118 276 96 332 106 386 L158 386 C142 338 144 290 168 264 Z" fill="url(#spud-capeGrad-s1)" />
+              <path d="M240 250 C282 276 304 332 294 386 L242 386 C258 338 256 290 232 264 Z" fill="url(#spud-capeGrad-s1)" />
+            </g>
+    
+            
+            <ellipse cx="176" cy="374" rx="17" ry="11" fill="#EFDCBA" stroke="#D9BE94" stroke-width="2.5" />
+            <ellipse cx="224" cy="374" rx="17" ry="11" fill="#EFDCBA" stroke="#D9BE94" stroke-width="2.5" />
+    
+            
+            <g>
+              <ellipse cx="126" cy="288" rx="15" ry="21" fill="#F3E2C2" stroke="#D9BE94" stroke-width="2.5" transform="rotate(-16 126 288)" />
+            </g>
+            <g>
+              <ellipse cx="274" cy="288" rx="15" ry="21" fill="#F3E2C2" stroke="#D9BE94" stroke-width="2.5" transform="rotate(16 274 288)" />
+            </g>
+    
+            
+            <g>
+              <path d="M200 130 C147 130 115 184 119 247 C123 314 156 358 200 358 C244 358 277 314 281 247 C285 184 253 130 200 130 Z" fill="url(#spud-spudGrad-s1)" stroke="#D9BE94" stroke-width="3" />
+              <ellipse cx="160" cy="204" rx="3.2" ry="2.4" fill="#E4CFA6" />
+              <ellipse cx="247" cy="221" rx="3.6" ry="2.7" fill="#E4CFA6" />
+              <ellipse cx="150" cy="272" rx="2.8" ry="2.1" fill="#E4CFA6" />
+              <ellipse cx="238" cy="304" rx="3.1" ry="2.3" fill="#E4CFA6" />
+              <ellipse cx="196" cy="330" rx="2.6" ry="2" fill="#E4CFA6" />
+            </g>
+    
+            
+            <g>
+              <ellipse cx="152" cy="240" rx="15" ry="10" fill="#F2A7A0" opacity=".8" />
+              <ellipse cx="248" cy="240" rx="15" ry="10" fill="#F2A7A0" opacity=".8" />
+              <g><ellipse cx="178" cy="224" rx="8.5" ry="11" fill="#4A3018" /></g>
+              <g><ellipse cx="222" cy="224" rx="8.5" ry="11" fill="#4A3018" /></g>
+    
+              <path d="M188 246 Q200 257 212 246" fill="none" stroke="#4A3018" stroke-width="4" stroke-linecap="round" />
+              </g>
+    
+            
+            <path d="M124 252 C160 296 240 296 276 252 C285 270 283 291 273 305 C231 346 169 346 127 305 C117 291 115 270 124 252 Z" fill="url(#spud-capeGrad-s1)" />
+            <path d="M138 276 C170 302 230 302 262 276" fill="none" stroke="#C9631D" stroke-width="3" stroke-linecap="round" opacity=".5" />
+    
+            
+            <g>
+              <path d="M134 180 C142 124 182 80 236 56 L264 78 C238 108 224 148 230 182 Z" fill="url(#spud-hatGrad-s1)" />
+              <path d="M249 66 C286 46 320 66 311 95 C305 113 283 116 277 100 C272 87 285 78 292 87" fill="none" stroke="#E0762A" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" />
+              <ellipse cx="200" cy="182" rx="142" ry="32" fill="url(#spud-hatGrad-s1)" />
+              <path d="M64 176 C104 200 296 200 336 176" fill="none" stroke="#C9631D" stroke-width="3" stroke-linecap="round" opacity=".35" />
+            </g>
+    
+            
+            <g>
+              </g>
+    
+          </g>
+        </svg><text x="320" y="591" fill="#f8eee1" font-family="DejaVu Sans,Arial,sans-serif" font-size="29" font-weight="700" text-anchor="middle">Spudwitch</text></svg>
