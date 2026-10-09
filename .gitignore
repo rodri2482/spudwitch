@@ -1,0 +1,20 @@
+# Only reviewed public showcase files belong here
+*
+!.gitignore
+!README.md
+!assets/
+!assets/README.md
+!assets/hero.svg
+!assets/intro-spud.svg
+!assets/intro-brine.svg
+!assets/intro-rooter.svg
+!assets/intro-nipper.svg
+!assets/intro-ember.svg
+!assets/spud.svg
+!assets/brine.svg
+!assets/rooter.svg
+!assets/nipper.svg
+!assets/ember.svg
+!assets/chat.jpg
+!assets/welcome.jpg
+!assets/voices.jpg
